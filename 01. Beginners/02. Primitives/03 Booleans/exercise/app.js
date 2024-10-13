@@ -5,7 +5,7 @@
 
 let isJsProgrammingLanguage = true;
 let isJsHard = false;
-let favNumb = 21;
+let favNumb = 17;
 console.log(isJsProgrammingLanguage);
 console.log(isJsHard);
-console.log(favNumb + undefined);
+console.log(favNumb + undefined);   // o/p : NaN
