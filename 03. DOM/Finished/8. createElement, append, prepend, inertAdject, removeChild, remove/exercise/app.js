@@ -27,3 +27,6 @@ h1.remove();
 // ul.insertAdjacentElement("beforeend", li);
 ul.insertAdjacentElement("afterend", li);
 console.log(li);
+
+h1.appendChild(button);
+
