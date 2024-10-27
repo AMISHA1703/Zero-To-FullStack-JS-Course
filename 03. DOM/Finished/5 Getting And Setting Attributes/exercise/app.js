@@ -3,6 +3,8 @@
 // 3. Select a-two & set "href" attribute
 // setAttribute(attrName, value)
 
+
+
 const a = document.querySelector("a");
 console.log(a.getAttribute("href"));
 
